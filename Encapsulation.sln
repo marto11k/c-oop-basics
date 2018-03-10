@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.SortPersons", "01.SortPersons\01.SortPersons.csproj", "{844F6508-BECC-4E41-9429-06E282C81A40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.FirstAndReserveTeam", "02.FirstAndReserveTeam\02.FirstAndReserveTeam.csproj", "{48530A39-22DC-4F86-BF10-EA940101AA41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{844F6508-BECC-4E41-9429-06E282C81A40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{844F6508-BECC-4E41-9429-06E282C81A40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{844F6508-BECC-4E41-9429-06E282C81A40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{844F6508-BECC-4E41-9429-06E282C81A40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48530A39-22DC-4F86-BF10-EA940101AA41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48530A39-22DC-4F86-BF10-EA940101AA41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48530A39-22DC-4F86-BF10-EA940101AA41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48530A39-22DC-4F86-BF10-EA940101AA41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

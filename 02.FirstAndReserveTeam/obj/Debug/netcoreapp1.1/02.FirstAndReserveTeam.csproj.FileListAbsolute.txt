@@ -1,0 +1,9 @@
+E:\c#\Encapsulation\02.FirstAndReserveTeam\bin\Debug\netcoreapp1.1\02.FirstAndReserveTeam.deps.json
+E:\c#\Encapsulation\02.FirstAndReserveTeam\bin\Debug\netcoreapp1.1\02.FirstAndReserveTeam.runtimeconfig.json
+E:\c#\Encapsulation\02.FirstAndReserveTeam\bin\Debug\netcoreapp1.1\02.FirstAndReserveTeam.runtimeconfig.dev.json
+E:\c#\Encapsulation\02.FirstAndReserveTeam\bin\Debug\netcoreapp1.1\02.FirstAndReserveTeam.dll
+E:\c#\Encapsulation\02.FirstAndReserveTeam\bin\Debug\netcoreapp1.1\02.FirstAndReserveTeam.pdb
+E:\c#\Encapsulation\02.FirstAndReserveTeam\obj\Debug\netcoreapp1.1\02.FirstAndReserveTeam.csprojResolveAssemblyReference.cache
+E:\c#\Encapsulation\02.FirstAndReserveTeam\obj\Debug\netcoreapp1.1\02.FirstAndReserveTeam.AssemblyInfo.cs
+E:\c#\Encapsulation\02.FirstAndReserveTeam\obj\Debug\netcoreapp1.1\02.FirstAndReserveTeam.dll
+E:\c#\Encapsulation\02.FirstAndReserveTeam\obj\Debug\netcoreapp1.1\02.FirstAndReserveTeam.pdb
