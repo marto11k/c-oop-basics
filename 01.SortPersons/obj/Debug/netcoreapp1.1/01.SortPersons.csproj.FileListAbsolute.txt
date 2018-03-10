@@ -1,0 +1,9 @@
+E:\c#\Encapsulation\01.SortPersons\bin\Debug\netcoreapp1.1\01.SortPersons.deps.json
+E:\c#\Encapsulation\01.SortPersons\bin\Debug\netcoreapp1.1\01.SortPersons.runtimeconfig.json
+E:\c#\Encapsulation\01.SortPersons\bin\Debug\netcoreapp1.1\01.SortPersons.runtimeconfig.dev.json
+E:\c#\Encapsulation\01.SortPersons\bin\Debug\netcoreapp1.1\01.SortPersons.dll
+E:\c#\Encapsulation\01.SortPersons\bin\Debug\netcoreapp1.1\01.SortPersons.pdb
+E:\c#\Encapsulation\01.SortPersons\obj\Debug\netcoreapp1.1\01.SortPersons.csprojResolveAssemblyReference.cache
+E:\c#\Encapsulation\01.SortPersons\obj\Debug\netcoreapp1.1\01.SortPersons.AssemblyInfo.cs
+E:\c#\Encapsulation\01.SortPersons\obj\Debug\netcoreapp1.1\01.SortPersons.dll
+E:\c#\Encapsulation\01.SortPersons\obj\Debug\netcoreapp1.1\01.SortPersons.pdb
